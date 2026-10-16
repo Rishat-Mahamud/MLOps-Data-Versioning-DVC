@@ -1,4 +1,4 @@
 [core]
     remote = localremote
 ['remote "localremote"']
-    url = D:\DVC-Storage
+    url = ../s3
